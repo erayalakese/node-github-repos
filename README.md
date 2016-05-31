@@ -1,8 +1,12 @@
 # node-github-repos
 
-Fetchs all user repositories from GitHub
+[![NPM](https://nodei.co/npm/node-github-repos.png?downloads=true)](https://nodei.co/npm/node-github-repos/)
 
-## Super easy usage
+[![Dependency Status](https://david-dm.org/erayalakese/node-github-repos.svg)](https://david-dm.org/erayalakese/node-github-repos) [![Known Vulnerabilities](https://snyk.io/test/npm/node-github-repos/badge.svg)](https://snyk.io/test/npm/node-github-repos)
+
+Fetchs all user repositories from GitHub. Uses NodeJS' inbuilt `https` module and doesn't depends to any external modules.
+
+## Super easy usage with ZERO dependencies
 
 ```
 // Require the library
